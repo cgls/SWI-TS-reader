@@ -1,4 +1,7 @@
 # SWI-TS-reader
+
+Authors: Christoph Paulik, Bernhard Bauer-Marschallinger
+
 Sample code for reading in a specific Discrete Global Grid cell of the 
 Soil Water Index Time Series (SWI-TS) product and plotting values for a specific grid point.
 
